@@ -1,0 +1,71 @@
+region,site,survey_year,species,life_stage,count
+Upper Bay,U1,2024,Atlantic cod,juvenile,42
+Upper Bay,U1,2024,Atlantic cod,adult,12
+Upper Bay,U1,2024,Haddock,juvenile,18
+Upper Bay,U1,2024,Haddock,adult,8
+Upper Bay,U1,2024,Pollock,juvenile,65
+Upper Bay,U1,2024,Pollock,adult,21
+Upper Bay,U2,2024,Atlantic cod,juvenile,35
+Upper Bay,U2,2024,Atlantic cod,adult,10
+Upper Bay,U2,2024,Haddock,adult,6
+Upper Bay,U2,2024,Pollock,juvenile,48
+Upper Bay,U2,2024,Pollock,adult,16
+Upper Bay,U3,2024,Atlantic cod,juvenile,27
+Upper Bay,U3,2024,Atlantic cod,adult,9
+Upper Bay,U3,2024,Haddock,juvenile,14
+Upper Bay,U3,2024,Haddock,adult,5
+Upper Bay,U3,2024,Pollock,juvenile,39
+Upper Bay,U3,2024,Pollock,adult,13
+Upper Bay,U1,2025,Atlantic cod,juvenile,46
+Upper Bay,U1,2025,Atlantic cod,adult,14
+Upper Bay,U1,2025,Haddock,juvenile,20
+Upper Bay,U1,2025,Haddock,adult,9
+Upper Bay,U1,2025,Pollock,juvenile,70
+Upper Bay,U1,2025,Pollock,adult,24
+Upper Bay,U2,2025,Atlantic cod,juvenile,38
+Upper Bay,U2,2025,Atlantic cod,adult,11
+Upper Bay,U2,2025,Haddock,juvenile,16
+Upper Bay,U2,2025,Haddock,adult,7
+Upper Bay,U2,2025,Pollock,juvenile,53
+Upper Bay,U2,2025,Pollock,adult,18
+Upper Bay,U3,2025,Atlantic cod,juvenile,30
+Upper Bay,U3,2025,Atlantic cod,adult,10
+Upper Bay,U3,2025,Haddock,juvenile,15
+Upper Bay,U3,2025,Haddock,adult,6
+Upper Bay,U3,2025,Pollock,juvenile,44
+Upper Bay,U3,2025,Pollock,adult,15
+Lower Bay,L1,2024,Atlantic cod,juvenile,24
+Lower Bay,L1,2024,Atlantic cod,adult,18
+Lower Bay,L1,2024,Haddock,juvenile,11
+Lower Bay,L1,2024,Haddock,adult,13
+Lower Bay,L1,2024,Pollock,juvenile,31
+Lower Bay,L1,2024,Pollock,adult,27
+Lower Bay,L2,2024,Atlantic cod,juvenile,20
+Lower Bay,L2,2024,Atlantic cod,adult,16
+Lower Bay,L2,2024,Haddock,juvenile,9
+Lower Bay,L2,2024,Haddock,adult,12
+Lower Bay,L2,2024,Pollock,juvenile,28
+Lower Bay,L2,2024,Pollock,adult,25
+Lower Bay,L3,2024,Atlantic cod,juvenile,17
+Lower Bay,L3,2024,Atlantic cod,adult,15
+Lower Bay,L3,2024,Haddock,juvenile,8
+Lower Bay,L3,2024,Haddock,adult,10
+Lower Bay,L3,2024,Pollock,juvenile,24
+Lower Bay,L1,2025,Atlantic cod,juvenile,26
+Lower Bay,L1,2025,Atlantic cod,adult,20
+Lower Bay,L1,2025,Haddock,juvenile,12
+Lower Bay,L1,2025,Haddock,adult,15
+Lower Bay,L1,2025,Pollock,juvenile,35
+Lower Bay,L1,2025,Pollock,adult,30
+Lower Bay,L2,2025,Atlantic cod,juvenile,22
+Lower Bay,L2,2025,Atlantic cod,adult,18
+Lower Bay,L2,2025,Haddock,juvenile,10
+Lower Bay,L2,2025,Haddock,adult,13
+Lower Bay,L2,2025,Pollock,juvenile,31
+Lower Bay,L2,2025,Pollock,adult,27
+Lower Bay,L3,2025,Atlantic cod,juvenile,19
+Lower Bay,L3,2025,Atlantic cod,adult,16
+Lower Bay,L3,2025,Haddock,juvenile,9
+Lower Bay,L3,2025,Haddock,adult,11
+Lower Bay,L3,2025,Pollock,juvenile,27
+Lower Bay,L3,2025,Pollock,adult,24
